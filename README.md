@@ -49,6 +49,3 @@ after you have the hook to search query embeddings
 ```python
 pnpm db:push
 ```
-```terminal
-pnpm add ai @ai-sdk/openai
-```
