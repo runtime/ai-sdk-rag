@@ -22,6 +22,3 @@ export const embeddings = pgTable(
         ),
     }),
 );
-
-//todo you just ran a db:push succesfully.
-// todo copy this repository so you can push it to your git

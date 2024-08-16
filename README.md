@@ -21,11 +21,13 @@ This project will use the following stack:
 
 ```terminal
 brew services start postgresql 
-
 ```
 ```python
 pnpm db:migrate
 ```
 ```python
 pnpm db:push
+```
+```terminal
+pnpm add ai @ai-sdk/openai
 ```
